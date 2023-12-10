@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\bin\Debug\net6.0\Advent of code day3 task2.exe
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\bin\Debug\net6.0\Advent of code day3 task2.deps.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\bin\Debug\net6.0\Advent of code day3 task2.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\bin\Debug\net6.0\Advent of code day3 task2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\bin\Debug\net6.0\Advent of code day3 task2.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\refint\Advent of code day3 task2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\Advent of code day3 task2.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day3 task2\obj\Debug\net6.0\ref\Advent of code day3 task2.dll

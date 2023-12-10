@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\bin\Debug\net6.0\Advent of code day2.exe
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\bin\Debug\net6.0\Advent of code day2.deps.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\bin\Debug\net6.0\Advent of code day2.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\bin\Debug\net6.0\Advent of code day2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\bin\Debug\net6.0\Advent of code day2.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\refint\Advent of code day2.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\Advent of code day2.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code day1 task1\Advent of code day2\obj\Debug\net6.0\ref\Advent of code day2.dll
