@@ -31,7 +31,6 @@ Console.WriteLine(output);
 //.*.
 //...
 //ez kétszer fogja bevenni a listába a 123-at
-
 List<int> AdjacentNumbers(int index)
 {
     List<int[]> numberIndexes = new List<int[]>();

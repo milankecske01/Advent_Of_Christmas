@@ -44,6 +44,11 @@ for (int i = 0; i < input.Length; i++)
     }
 }
 Console.WriteLine(output);
+/*
+ .....
+ .10..
+ .....
+ */
 bool IsPartNumber(int[] indexes)
 {
     bool leftside = indexes[0] % (width) == 0 ? true : false;
