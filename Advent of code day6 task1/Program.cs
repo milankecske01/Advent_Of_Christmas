@@ -27,13 +27,13 @@ for (int i = 0; i < times.Count; i++)
     int distance = distances[i];
     int lowerBound = GetLowerBound(time, distance);
     //Console.WriteLine(GetBounds(time, distance)[0]);
-    output *= (time - lowerBound*2 + 1);
+    output *= (time - lowerBound*2 + 1);/*
     Console.WriteLine($"Time: {time}\n" +
     $"Distance: {distance}\n" +
     $"Lower Bound: {lowerBound}\n" +
     $"Upper Bound: {time - lowerBound}\n" +
     $"Solutions: {time - lowerBound * 2 + 1}\n" +
-    $"Output: {output}\n");
+    $"Output: {output}\n");*/
 }
 Console.WriteLine($"Answer: {output}");
 
