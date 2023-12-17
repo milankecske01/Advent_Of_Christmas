@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\bin\Debug\net6.0\Advent of code day6 task1.exe
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\bin\Debug\net6.0\Advent of code day6 task1.deps.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\bin\Debug\net6.0\Advent of code day6 task1.runtimeconfig.json
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\bin\Debug\net6.0\Advent of code day6 task1.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\bin\Debug\net6.0\Advent of code day6 task1.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.AssemblyInfo.cs
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\refint\Advent of code day6 task1.dll
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.pdb
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\Advent of code day6 task1.genruntimeconfig.cache
+C:\Users\Felhasználó\Desktop\csharpk\Advent of code\Advent of code day6 task1\obj\Debug\net6.0\ref\Advent of code day6 task1.dll
