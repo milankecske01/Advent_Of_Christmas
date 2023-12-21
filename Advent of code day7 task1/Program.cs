@@ -24,14 +24,12 @@ for (int i = 0; i < hands.Length; i++)
 //Console.WriteLine(StrongerThan(new hand("22223","1",1), new hand("22922", "1", 1)));
 ulong output = 0;
 for (int i = 0; i < hands.Length; i++)
-{/*
-    Console.WriteLine($"{hands[i].cards}  {hands[i].bid} ---> {i+1}");
+{
+    Console.WriteLine($"{hands[i].cards} ({hands[i].relativeStrength})  {hands[i].bid} ---> {i+1}");
     Console.WriteLine($"Added {hands[i].bid * (i + 1)} to output");
     output += (ulong)(hands[i].bid*(i+1));
-    Console.WriteLine($"output: {output}\n");*/
+    Console.WriteLine($"output: {output}\n");
 }
-Console.WriteLine(hands[998].cards);
-Console.WriteLine(hands[999].cards);
 for (int i = 0; i < hands.Length-1; i++)
 {
     if (StrongerThan(hands[i], hands[i+1]))
