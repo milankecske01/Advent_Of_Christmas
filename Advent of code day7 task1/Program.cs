@@ -3,7 +3,7 @@
 input.Replace("\r", "");
 string[] inputData = input.Split("\n");
 hand[] hands = new hand[inputData.Length];
-string cardValues = "123456789TJQKA";
+string cardValues = "23456789TJQKA";
 for (int i = 0; i < inputData.Length; i++)
 {
     string[] values = inputData[i].Split(" ");
