@@ -1,7 +1,4 @@
-﻿using System.Reflection.Metadata;
-
-StreamReader f = new StreamReader("input.txt");
-//StreamReader f = new StreamReader("test.txt");
+﻿StreamReader f = new StreamReader("input.txt");
 string instructions = f.ReadLine();
 f.ReadLine();
 Dictionary<string, string[]> maps = new Dictionary<string, string[]>();
